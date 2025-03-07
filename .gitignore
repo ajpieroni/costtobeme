@@ -17,3 +17,4 @@ env/
 # General
 .idea/
 *.log
+budget-table-draggable.txt
